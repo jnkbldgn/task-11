@@ -1,0 +1,22 @@
+{
+  "name": "task-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnkbldgn/task-11.git"
+  },
+  "author": "Buldygin E.M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnkbldgn/task-11/issues"
+  },
+  "homepage": "https://github.com/jnkbldgn/task-11#readme",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  }
+}
