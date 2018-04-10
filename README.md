@@ -1,5 +1,7 @@
 # Emitter
 
+[Emitter GHPages]
+
 Реализован на основе ассоциативного массива. `key` - событие, `value` - массив обработчиков события.
 
 ``` js
@@ -40,6 +42,8 @@ class Emitter{
 ```
 # Suggest
 
+[Suggest GHPages]
+
 Реализованы 2 способа:
 - `FirstSearch`: 
   - Находит первые 10 совпавших элементов с помощью метода ` Array.prototype.indexOf() ` 
@@ -49,3 +53,7 @@ class Emitter{
     а `value` это массив строк подходящих под данную подстроку. Тратится много времени и памяти на построение таблицы,
     но поиск занимает меньше времени.
   - Сложность `O(1)`;
+  
+  
+[Emitter GHPages]:https://jnkbldgn.github.io/task-11/emitter/
+[Suggest GHPages]:https://jnkbldgn.github.io/task-11/suggest/
